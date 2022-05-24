@@ -1,0 +1,30 @@
+#myReviewForm {
+	text-align: center;
+	position:absolute;
+	left:50%;
+	top:50%;
+	height:600px;
+	width:550px;
+	margin:-250px 0px 0px -275px;
+}
+
+#myReviewList {
+	border: solid 1.2px #ccc;
+	height:85%;
+	width:99%;	
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+#myReview {
+	text-align: left;
+	border-bottom: solid 1.2px #ccc;
+}
+
+#rBtn {
+	border: 0px;
+	font-weight: bolder;
+	margin: 4px;	
+	font-size: 0.7em;
+	color: #808080;
+}

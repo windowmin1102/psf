@@ -1,0 +1,36 @@
+header table{
+	width: 100%;
+	height: 100%;
+}
+header table tr{
+	width: 100%;
+	height: 100%;
+}
+
+#title {
+	width: 60%;
+	text-align: left;
+}
+#title a {
+	font-weight: bolder;
+	font-size: 1.5em;
+	text-decoration-line: none;
+	color: inherit;
+}
+
+#welcome {
+	width: 20%;
+	text-align: center;
+}
+#welcome p {
+	height: 30%;
+}
+
+#myInfo {
+	width: 10%;
+	text-align: center;
+}
+#logInOut {
+	width: 10%;
+	text-align: center;
+}

@@ -1,0 +1,47 @@
+
+
+
+#img {
+	width: 98%;
+	height: 30%;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+	display: "none";
+}
+
+#infor {
+	width: 98%;
+	height: auto;
+	background-color: #ccc;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+	text-align: center;
+	display: "none";
+}
+
+#reViewW {
+	width: 98%;
+	height: auto;
+	background-color: #ccc;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+	text-align: center;
+	display: "none";
+}
+
+#reViewList {
+	width: 98%;
+	height: auto;
+	background-color: #FFFFFF;
+	margin-top: 1%;
+	margin-right: 1%;
+	margin-left: 1%;
+}
+
+#reViewW input {
+	visibility:hidden;
+}
+
